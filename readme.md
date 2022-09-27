@@ -57,4 +57,7 @@ console.log("hello");
 
 ### image syntax
 
+<!-- ![profile](./images/rasel.JPG) -->
+
+<img src="./images/rasel.JPG" height="200">
 
